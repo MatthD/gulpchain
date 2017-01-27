@@ -1,0 +1,19 @@
+{
+  "name": "gulpchain",
+  "version": "1.0.0",
+  "description": "A babel,gulp..chain test",
+  "main": "gulpfile.babel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthd",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "bluebird": "^3.4.7"
+  },
+  "devDependencies": {
+    "babel-core": "^6.22.1",
+    "lerna": "2.0.0-beta.32"
+  }
+}
